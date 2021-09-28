@@ -5,11 +5,13 @@
 </template>
 
 
+
 <script>
 export default {
   name: 'titolo',
 }
 </script>
+
 
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
