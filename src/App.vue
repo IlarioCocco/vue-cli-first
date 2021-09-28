@@ -3,7 +3,6 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <bottone_prova/>
     <titolo/>
-    <img_jumbo/>
   </div>
 </template>
 
@@ -12,14 +11,12 @@
 <script>
   import bottone_prova from './components/bottone_prova.vue'
   import titolo from './components/titolo.vue'
-  import img_jumbo from './components/img_jumbo.vue'
 
   export default {
     name: 'App',
     components: {
       bottone_prova,
-      titolo,
-      img_jumbo,
+      titolo
     }
   }
 </script>
