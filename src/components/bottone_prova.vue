@@ -16,8 +16,11 @@ export default {
 <style scoped>
 .bottone_prova {
   border-radius: 10px;
+  width: 15px;
+  border: none;
   padding: 10px;
   color: red;
+  background: green;
 }
 
 
