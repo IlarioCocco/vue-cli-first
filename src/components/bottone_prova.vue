@@ -15,7 +15,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .bottone_prova {
-  border-radius: 10px;
+  border-radius: 30px;
   border: none;
   padding: 10px;
   color: rgb(255, 255, 255);
