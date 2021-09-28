@@ -27,6 +27,7 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <button class="bottone_prova">click</button>
   </div>
 </template>
 
@@ -41,6 +42,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.bottone_prova {
+  border-radius: 10px;
+  color: red;
+}
+
 h3 {
   margin: 40px 0 0;
 }
@@ -55,4 +61,6 @@ li {
 a {
   color: #42b983;
 }
+
+
 </style>
